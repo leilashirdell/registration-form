@@ -1,0 +1,10 @@
+{
+    "success" : {"code": 200},
+    "X_auth_header_not_exist" : {"errorcode": 401, "description": "دسترسی عیر مجاز. توکن ارائه نشده است"},
+    "invalid_token" : {"errorcode": 400, "description": "توکن ارائه شده معتبر نمی باشد"},
+    "ivalid_login_validation" : {"errorcode": 400, "description" : "اعتبار سنجی فرم مشکل دارد"},
+    "invalid_userpass": {"errorcode": 400, "description": "نام کاربری و یا رمز عبور اشتباه می باشد"},
+    "user_already_exist": {"errorcode": 400, "description": "کاربری با مشخصات وارد شده موجود می باشد"},
+    "user_validation": {"errorcode": 400, "description": "فیلدهای وارد شده معتبر نمی باشد"},
+    "user_not_exist" : {"errorcode": 400, "description": "کاربر یافت نشد"}
+}

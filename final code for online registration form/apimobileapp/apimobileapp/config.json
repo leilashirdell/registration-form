@@ -1,0 +1,6 @@
+{
+  "api_addr": "http://81.16.123.169:4000/api/users",
+  "api_weather": "http://api.weatherapi.com/v1/current.json?key=5f58d1473c814cca837203544211103",
+  "api_emd_sentiment": "https://apis.paralleldots.com/v4/sentiment",
+  "api_emd_emotion": "https://apis.paralleldots.com/v5/emotion"
+}

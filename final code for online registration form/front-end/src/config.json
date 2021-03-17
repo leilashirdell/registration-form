@@ -1,0 +1,4 @@
+{
+  "api_addr": "http://81.16.123.169:4000/api/users",
+  "api_emd_emotion": "https://apis.paralleldots.com/v5/emotion"
+}

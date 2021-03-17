@@ -1,0 +1,30 @@
+{
+  "roles": {
+    "admin": "admin",
+    "agent": "agent",
+    "seller": "seller",
+    "customer": "customer"
+  },
+  "jwt_secret": "iZmac@4096Q",
+  "appaddress": "http://mobile.khodroservis.ir/",
+  "tokenName": "x-auth-token",
+  "SMSSecretKey": "iZmac@4096Q",
+  "SMSTokenURL": "https://RestfulSms.com/api/Token",
+  "SMSVCodeURL": "https://RestfulSms.com/api/VerificationCode",
+  "SMSFastSendURL": "https://RestfulSms.com/api/UltraFastSend",
+  "SMSAPIKey": "8b6108a275a39cae68e7d8f3",
+  "SMSVcodeTemplateCode": 36608,
+  "SMSServiceTemplateCode": 36671,
+  "SMSReminderServiceTemplateCode": 37054,
+  "SMSReminderDelayDays": 29,
+  "SMSCreateTicketTemplateCode": 42029,
+  "SMSTicketRespondTemplateCode": 43589,
+  "SMSCreateTicketAlertForAdminTemplateCode": 43587,
+
+  "comentByAdmin": "مدیریت تیکت",
+  "adminSmsNumber": "9125052564",
+
+  "python_Compiler_Path": "C:\\Users\\m.shahbazi\\Documents\\pythonapps\\OpenCV_3_KNN_Car-plate\\venv\\Scripts\\python.exe",
+  "python_Script_Path": "C:\\Users\\m.shahbazi\\Documents\\pythonapps\\yolo-carplate-detection\\main.py",
+  "auth_active": true
+}
